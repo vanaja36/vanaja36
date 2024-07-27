@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanaja36
+- 👋 Hi, I’m vanaja
 - 👀 I’m interested in  fullstack devloper.
 - 🌱 I’m currently learning Artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on dev based projects
