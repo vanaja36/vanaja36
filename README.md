@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial intelligence and machine learning.
 - 💞️ I’m looking to collaborate on dev based projects
 - 📫 How to reach me vanajapandella@gmail.com
-- 😄 I an honing my dev and python skills
+- 😄 I am honing my dev and python skills
 - ⚡ Ask me about Web development & Aiml
   
 <!---
