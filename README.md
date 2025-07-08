@@ -1,12 +1,7 @@
-- 👋 Hi, I’m vanaja
-- 👀 I’m interested in  fullstack devloper.
-- 🌱 I’m currently learning Artificial intelligence and machine learning.
-- 💞️ I’m looking to collaborate on dev based projects
-- 📫 How to reach me vanajapandella@gmail.com
-- 😄 I am honing my dev and python skills
-- ⚡ Ask me about Web development & Aiml
-  
-<!---
-vanaja36/vanaja36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi, I’m vanaja P
+ 🎯 Aspiring Data Analyst | Excel • SQL • Python • Power BI  
+📊 Passionate about extracting insights & solving real-world problems using data  
+📁 Building projects & dashboards that tell a story  
+💼 Open to full-time roles | Actively learning & growing
+
+
