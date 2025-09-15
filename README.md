@@ -6,7 +6,7 @@ Skilled in **data analysis, ETL pipeline development, predictive modeling, and d
 
 ---
 
-## 📂 Data Analyst Projects (Best → Least)
+## 📂 Data Analyst Projects 
 
 ### 1️⃣ [Bank Loan Analysis Capstone](https://github.com/vanaja36/Bank-Loan-Analysis-Capstone)
 *Tools:* Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau  
@@ -15,7 +15,7 @@ Skilled in **data analysis, ETL pipeline development, predictive modeling, and d
 - Built interactive Excel & Tableau dashboards to monitor key metrics.  
 - SQL queries for extraction, aggregation, and summarization.  
 
-### 2️⃣ [E-commerce Sales Analysis Dashboard](https://github.com/vanaja36/Ecommerce-Sales-Analysis)
+### 2️⃣ [E-commerce Sales Analysis Dashboard](https://github.com/vanaja36/ecommerce-sales-analysis-sql-powerbi)
 *Tools:* SQL, Power BI, Excel  
 - Designed KPIs and trend dashboards to track sales, profit, and product performance.  
 - SQL for data extraction and transformation; improved **inventory planning** and **shipping optimization**.
@@ -35,26 +35,22 @@ Skilled in **data analysis, ETL pipeline development, predictive modeling, and d
 ### 2️⃣ [SQL Data Warehouse & Analytics Pipeline](https://github.com/vanaja36/sql-data-warehouse-project)
 - Designed **star-schema warehouse**, applied data quality checks, and created multi-stage (Bronze → Silver → Gold) pipelines.
 
-### 3️⃣ [Netflix Viewing Data Analytics Pipeline](https://github.com/vanaja36/dbt-netflix-project) *(Ongoing)*
+### 3️⃣ [Netflix Viewing Data Analytics Pipeline](https://github.com/vanaja36/Netflix_dbt_DataPipeline) *(Ongoing)*
 - Developing dbt models for **incremental data loads**, star-schema modeling, and Looker dashboards to analyze viewing patterns.
 
 ---
 
 ## 🤖 Data Science & AI Projects
 
-### [Indian Startup Funding Insights & Investment Trends](#)
-- **EDA** on Indian startup funding datasets using Python, Pandas, Matplotlib, Seaborn.  
-- Identified **investment patterns**, funding size distribution, and sector growth to guide investor decisions.
-
-### [AI-Powered Resume Screening & Classification](#)
+### [AI-Powered Resume Screening & Classification](https://github.com/vanaja36/ai-resume-screening)
 - NLP pipeline (TF-IDF, word embeddings) + ML models to **auto-classify resumes** into job roles.  
 - Improved HR efficiency, reducing manual shortlisting by 50%.
 
-### [Skin Cancer Detection (Deep Learning – Computer Vision)](#)
+### [Skin Cancer Detection (Deep Learning – Computer Vision)](https://github.com/vanaja36/skin-cancer-detection)
 - Built **CNN model** (TensorFlow/Keras) for skin cancer classification.  
 - Streamlit app for real-time predictions and user-friendly access.
 
-### [Bank Customer Segmentation (Machine Learning)](#)
+### [Bank Customer Segmentation (Machine Learning)](https://github.com/vanaja36/bank-marketing-customer-segmentation-)
 - K-Means clustering to identify **customer groups** for targeted marketing and cross-selling.  
 - Increased marketing ROI by 20%.
 
