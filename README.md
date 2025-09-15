@@ -27,7 +27,7 @@ Skilled in **data analysis, ETL pipeline development, predictive modeling, and d
 
 ---
 
-## 📂 Data Engineer Projects (Best → Least)
+## 📂 Data Engineer Projects 
 
 ### 1️⃣ [ETL Pipeline – GCP Data Fusion, Airflow & BigQuery](https://github.com/vanaja36/etl-pipeline-datafusion-airflow)
 - Built a **cloud-based ETL pipeline**: extracted data with Python, transformed via Data Fusion, orchestrated with Airflow, and loaded to BigQuery for analytics in Looker Studio.
@@ -94,5 +94,5 @@ Artificial Intelligence • Machine Learning • Deep Learning • **Computer Vi
 
 ## 📞 Contact
 - **Email:** vanajapandella@gmail.com  
-- **LinkedIn:** [linkedin.com/in/your-profile](#)  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/mynetwork/invite-connect/connections/)  
 - **GitHub:** [github.com/vanaja36](https://github.com/vanaja36)
