@@ -1,4 +1,4 @@
-# 🌟 Vanaja P – Data Analyst | Data Engineer | Data Scientist
+# 🌟 Vanaja P – Data Analyst | AIML Engineer | Data Scientist
 
 ## 👩‍💻 About Me
 Passionate **Data Professional** with hands-on experience in **Python, SQL, Power BI, Excel, GCP, Airflow, BigQuery, and Machine Learning**.  
